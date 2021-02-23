@@ -8,7 +8,7 @@ class dsd{
             rank=new int[n];
             for(int i=0;i<n;i++)
             {    p[i]=i;
-                rank[i]=i;
+                rank[i]=0;
             }   
         }
         int root(int a)
