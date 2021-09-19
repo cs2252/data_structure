@@ -1,3 +1,4 @@
+//this class can be used as a key in HashMap or HashSet.
 import java.util.Objects;
 
 public class Pair {
